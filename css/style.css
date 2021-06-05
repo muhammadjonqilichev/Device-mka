@@ -1,0 +1,50 @@
+body{
+    background-color:#6884B2;
+    box-sizing: border-box;
+}
+.main {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    display: flex;
+    margin: 200px 310px;
+    background-color: #fff;
+    padding: 30px;
+    justify-content: space-around;
+    border-radius: 5px;
+
+    
+}
+.text{
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    color: #6884b2;
+    margin: 10px;
+}
+.text1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: #797979;
+    text-align: center;
+}
+.img{
+    padding-bottom: 10px;
+}
+.mobile:hover{
+    border-radius: 10px;
+    background-color:rgb(238, 227, 227);
+}
+.laptop:hover{
+    border-radius: 10px;
+    background-color:rgb(238, 227, 227);
+}
+.tv:hover{
+    border-radius: 10px;
+    background-color:  #f0f0f0;
+}
+.stand{
+    padding: 20px;
+}
+.price{
+    margin-top: 41px;
+}
